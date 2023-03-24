@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://smartbusinessai.netlify.app/"
+baseURL = "https://businessai.raulferrer.dev/"
 title = "Artificial Intelligence in Business Management"
 theme = "apollo-hugo"
 # post pagination
