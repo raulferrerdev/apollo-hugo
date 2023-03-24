@@ -1,13 +1,13 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/apollo/examplesite/"
-title = "Apollo | Minimal Blog Theme"
+baseURL = "https://smartbusinessai.netlify.app/"
+title = "Artificial Intelligence in Business Management"
 theme = "apollo-hugo"
 # post pagination
 paginate = "5"
 # post excerpt
 summaryLength = "20"
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-3QQB7Q8T9Y" # example : UA-123-45
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 
@@ -32,15 +32,21 @@ link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js
 ###################### Navigation ###########################
 
 # main menu
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
 [[menu.main]]
 name = "About"
 url = "about/"
-weight = 1
-  
-[[menu.main]]
-name = "Elemetns"
-url = "elements/"
 weight = 2
+  
+#[[menu.main]]
+#name = "Elemetns"
+#url = "elements/"
+#weight = 2
   
 [[menu.main]]
 name = "Terms & Conditions"
@@ -55,7 +61,7 @@ weight = 4
 #################### default parameters ############################
 [params]
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "150x"
 favicon = "images/favicon.png"
 # Meta data
 description = "This is meta description"
@@ -63,15 +69,15 @@ author = "Themefisher"
 # main section
 main_section = "post"
 # banner content
-banner_content = "Cras ultricies ligula sed magna dictum porta. Vivamus suscipit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."
+banner_content = "If you're looking to stay ahead of the competition in today's fast-paced business world, **AI Business Management** is the way to go. **Smart Business AI** delves into the world of AI, exploring how it can help streamline operations, enhance decision-making, and build long-lasting customer relationships. Discover how businesses of all sizes can leverage intelligent algorithms and machine learning to automate routine tasks, generate actionable insights, and make data-driven decisions. Don't miss out on this opportunity to learn about the future of business management – read our latest blog today!"
 # copyright
-copyright = "Designed & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "@ Smart Business AI - 2023"
 # custom script on header
 custom_script= ""
 
 # site variables
 [params.variables]
-primary_color = "#33186D"
+primary_color = "#D14124"
 body_color = "#fff"
 text_color = "#333"
 text_color_dark = "#000"
@@ -83,7 +89,7 @@ light = "#f1f1f1"
 
 # font variable
 # Give your font name from google font. and add font weight using comma, ex: "Roboto:400,500,900"
-primary_font = "DM Sans:400,500,700"
+primary_font = "Raleway:100,200,300,400,500,600,700,800,900"
 icon_font = "Fontawesome 5 Free"
 
 # cookies
