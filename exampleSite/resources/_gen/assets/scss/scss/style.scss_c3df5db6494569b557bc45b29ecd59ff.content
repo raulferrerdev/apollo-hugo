@@ -232,6 +232,13 @@ a:not([href]) {
 .post-sorting {
   border-bottom: 1px solid #dedede; }
 
+.center {
+  text-align: center; }
+
+.shadow {
+  filter: blur();
+  filter: drop-shadow(3px 3px 3px gray); }
+
 .sr-only {
   position: absolute;
   width: 1px;

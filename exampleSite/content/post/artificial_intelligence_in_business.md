@@ -27,6 +27,9 @@ Organizations must complete hundreds of tasks each day, and AI can automate repe
 
 The use of **chatbots** is one example of how AI is transforming automated operations. **Chatbots** are computer programs that can simulate human-to-human interaction. They can be used to automate tasks like answering frequently asked questions in customer service. Businesses can save time and money while improving the customer experience. **Chatbots**, according to an [IBM](https://www.ibm.com/cloud/learn/chatbots-explained) study, can cut customer service costs by up to 30%.
 
+{{< image
+src="../../images/blog/artificial_intelligence_in_business_1.png"
+alt="ChatGPT" >}}
 Another way AI is transforming **automated operations** is through robotic process automation (RPA).
 RPA is a technology that automates repetitive tasks such as data entry, data processing, and customer service using software robots.
 Businesses can save time and money while improving the accuracy and quality of their work.
@@ -52,8 +55,9 @@ Businesses that use predictive analytics can increase their revenue by up to 20%
 One of the most significant ways AI is transforming businesses is through improved decision making.
 AI can analyze data to provide insights and recommendations to businesses, allowing them to make better decisions.
 This can assist businesses in increasing their efficiency and revenue.
-
-
+{{< image
+src="../../images/blog/artificial_intelligence_in_business_2.png"
+alt="Business decision making" >}}
 Predictive analytics is one example of how AI is transforming better decision making.
 Predictive analytics is a technique that employs artificial intelligence to forecast future outcomes based on historical data.
 By providing insights into future trends and patterns, this can help businesses make better decisions.
