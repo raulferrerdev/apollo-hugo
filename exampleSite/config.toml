@@ -64,8 +64,8 @@ logo = "images/logo.png"
 logo_width = "150x"
 favicon = "images/favicon.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Smart Business AI delves into the world of Artificial Intelligence, exploring how it can help streamline operations, enhance decision-making, and build long-lasting customer relationships."
+author = "Raúl Ferrer"
 # main section
 main_section = "post"
 # banner content
