@@ -1,7 +1,7 @@
 ---
 title: "5 ways AI can help your business grow"
 date: 2023-03-25T11:07:10+06:00
-image: ""
+image: "images/blog/5_ways_ai_can_help_your_business_grow.png"
 image_webp: "images/blog/5_ways_ai_can_help_your_business_grow.webp"
 description: "This post is about how to use AI to optimize your business. It covers 5 ways you can use AI to improve your customer service, automate your marketing campaigns, optimize your pricing strategy, improve your cybersecurity and nuclear fusion experiments. By using AI in these areas, you can make better business decisions that will help you grow your business."
 excerpt: "Apply this five ways to grow your business."

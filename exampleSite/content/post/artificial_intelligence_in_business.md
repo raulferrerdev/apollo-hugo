@@ -1,7 +1,7 @@
 ---
 title: "Articial Intelligence In Business. How AI is Transforming Businesses"
 date: 2023-03-20T11:07:10+06:00
-image: ""
+image: "images/blog/artificial_intelligence_in_business.png"
 image_webp: "images/blog/artificial_intelligence_in_business.webp"
 description: "In this article, we will talk about how artificial intelligence (AI) affects businesses and how it might boost output and efficiency. It examines a variety of AI applications in numerous fields, including customer support, marketing, and finance. The essay focuses on the advantages of applying AI technology to business processes and offers suggestions for how companies can successfully deploy AI solutions."
 excerpt: "Learn how artificial intelligence (AI) affects businesses and how it might boost output and efficiency."
